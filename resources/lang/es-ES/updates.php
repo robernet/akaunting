@@ -8,6 +8,8 @@ return [
     'changelog'             => 'Historial de cambios',
     'check'                 => 'Comprobar',
     'new_core'              => 'Una versión actualizada de Akaunting está disponible.',
-    'latest_core'           => '¡Felicidades! Tienes la última versión de Akaunting. Las actualizaciones de seguridad futuras se aplicarán automáticamente.',
+    'latest_core'           => '¡Felicidades! Tienes la última versión de Akaunting. Las actualizaciones de seguridad futuras se aplicarán automáticamente.'
+    'success'               => 'Proceso de actualización completado exitósamente.',
+    'error'                 => 'Proceso de actualización fallido, por favor, intente de nuevo.',
 
 ];
