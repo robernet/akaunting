@@ -35,6 +35,7 @@ return [
     'languages'             => 'Idioma | Idiomas',
     'updates'               => 'Actualización | Actualizaciones',
     'numbers'               => 'Número | Números',
+    'statuses'              => 'Estatus|Estatus',
 
     'dashboard'             => 'Panel de Control',
     'banking'               => 'Banking',
@@ -91,8 +92,10 @@ return [
     'paypal'                => 'PayPal',
     'help'                  => 'Ayuda',
     'all'                   => 'Todos',
+    'all_type'              => 'Todos :type',
     'upcoming'              => 'Próximos',
     'created'               => 'Creado',
+    'id'                    => 'ID',
 
     'title' => [
         'new'               => 'Nuevo :type',
