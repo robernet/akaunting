@@ -10,5 +10,6 @@ return [
     'bank_phone'            => 'Bank Phone',
     'bank_address'          => 'Bank Address',
     'default_account'       => 'Default Account',
+    'all'                   => 'All Accounts',
 
 ];
