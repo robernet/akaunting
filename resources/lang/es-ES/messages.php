@@ -12,6 +12,7 @@ return [
     ],
     'warning' => [
         'deleted'           => 'Advertencia: No puede borrar :type porque tiene :text',
+        'disabled'          => 'Advertencia: No ha deshabilidado :type. porque tiene :text',
     ],
 
 ];
